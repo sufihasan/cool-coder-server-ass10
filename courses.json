@@ -1,0 +1,146 @@
+[
+    {
+        "id": 100001,
+        "course_title": "Web Development",
+        "description": "Learn the fundamentals of web development, including HTML, CSS, and JavaScript.",
+        "image_url": "https://i.ibb.co/pwwKNGs/web-Development.jpg",
+        "details": "This comprehensive course covers the essential concepts and skills required for modern web development. You will start by learning HTML to create the structure of web pages, then move on to CSS to style them beautifully. JavaScript will be introduced to add interactivity and dynamic features to your websites. Additionally, you will explore responsive design techniques to ensure your websites look great on all devices. By the end of this course, you will have a solid foundation in web development and be ready to create your own websites and web applications.",
+        "category_id": 101,
+        "rating": 4.5,
+        "course_teacher": {
+            "name": "John Doe",
+            "teacher_image": "https://example.com/teacher_John_Doe_image.jpg",
+            "teacher_position": "Lead Web Developer"
+        },
+        "student_number": 80,
+        "lessons": 30,
+        "course_duration": "3 months",
+        "course_price": 7500,
+        "topics_covered": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Responsive Design"
+        ]
+    },
+    {
+        "id": 100002,
+        "course_title": "Ethical Hacking",
+        "description": "Explore the principles and techniques of ethical hacking to secure computer systems.",
+        "image_url": "https://i.ibb.co/j8FtGVs/etical-Hack.jpg",
+        "details": "This comprehensive course delves into the world of ethical hacking, teaching you how to identify and mitigate security vulnerabilities in computer systems. You will learn various penetration testing techniques to assess the security posture of networks and applications. Vulnerability assessment methodologies will be covered to identify weaknesses and potential exploits. Encryption techniques will also be discussed to ensure secure communication and data protection. With hands-on labs and real-world scenarios, you will gain practical experience in ethical hacking and be equipped to defend against cyber threats.",
+        "category_id": 102,
+        "rating": 4.8,
+        "course_teacher": {
+            "name": "Jane Smith",
+            "teacher_image": "https://example.com/teacher_jane_smith_image.jpg",
+            "teacher_position": "Cybersecurity Expert"
+        },
+        "student_number": 70,
+        "lessons": 25,
+        "course_duration": "2.5 months",
+        "course_price": 6000,
+        "topics_covered": [
+            "Network Security",
+            "Penetration Testing",
+            "Vulnerability Assessment",
+            "Encryption"
+        ]
+    },
+    {
+        "id": 100003,
+        "course_title": "Microsoft Office",
+        "description": "Master the essential tools and functions of Microsoft Office suite for productivity.",
+        "image_url": "https://i.ibb.co/wY5G45p/images.png",
+        "details": "This comprehensive course is designed to help you master the essential tools and functions of the Microsoft Office suite. You will learn how to effectively use Microsoft Word for document creation and formatting. Microsoft Excel will be covered in depth, including formulas, functions, and data analysis techniques. PowerPoint skills will be developed for creating impactful presentations. Additionally, you will explore Microsoft Outlook for email management and scheduling. With practical exercises and real-world examples, you will enhance your productivity with Microsoft Office.",
+        "category_id": 103,
+        "rating": 4.3,
+        "course_teacher": {
+            "name": "Michael Johnson",
+            "teacher_image": "https://i.ibb.co/Pc9mJyn/images.jpg",
+            "teacher_position": "Productivity Specialist"
+        },
+        "student_number": 60,
+        "lessons": 20,
+        "course_duration": "2 months",
+        "course_price": 4000,
+        "topics_covered": [
+            "Microsoft Word",
+            "Microsoft Excel",
+            "Microsoft PowerPoint",
+            "Microsoft Outlook"
+        ]
+    },
+    {
+        "id": 100004,
+        "course_title": "HSC ICT",
+        "description": "Prepare for the HSC ICT exam with comprehensive coverage of ICT concepts and applications.",
+        "image_url": "https://i.ibb.co/NZvP3qn/Hsc-Ict.jpg",
+        "details": "This comprehensive course provides comprehensive coverage of ICT concepts and applications to help students prepare for the HSC ICT exam. You will learn about information systems, including their components and functions. Database management principles will be covered, including database design and SQL queries. Programming concepts will also be explored, including variables, control structures, and functions. Internet and web technologies will be discussed, including HTML, CSS, and JavaScript. By the end of this course, you will have a solid understanding of ICT and be prepared for the HSC ICT exam.",
+        "category_id": 104,
+        "rating": 4.6,
+        "course_teacher": {
+            "name": "Emily Brown",
+            "teacher_image": "https://example.com/teacher_emily_brown_image.jpg",
+            "teacher_position": "ICT Instructor"
+        },
+        "student_number": 90,
+        "lessons": 35,
+        "course_duration": "3.5 months",
+        "course_price": 6000,
+        "topics_covered": [
+            "Information Systems",
+            "Database Management",
+            "Programming Concepts",
+            "Internet and Web Technologies"
+        ]
+    },
+    {
+        "id": 100005,
+        "course_title": "Graphic Design",
+        "description": "Develop your creative skills in graphic design, including typography, color theory, and layout.",
+        "image_url": "https://i.ibb.co/rtWhM89/graphic-design.jpg",
+        "details": "This comprehensive course is designed to develop your creative skills in graphic design. You will learn about typography principles and techniques for effective communication. Color theory will be explored to create harmonious and visually appealing designs. Layout principles will be covered for organizing elements on a page effectively. Adobe Photoshop and Illustrator will be used extensively for hands-on projects and assignments. By the end of this course, you will be equipped with the skills to create stunning graphics and visuals.",
+        "category_id": 105,
+        "rating": 4.7,
+        "course_teacher": {
+            "name": "David Wilson",
+            "teacher_image": "https://example.com/teacher_david_wilson_image.jpg",
+            "teacher_position": "Graphic Designer"
+        },
+        "student_number": 80,
+        "lessons": 30,
+        "course_duration": "3 months",
+        "course_price": 5500,
+        "topics_covered": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Typography",
+            "Logo Design"
+        ]
+    },
+    {
+        "id": 100006,
+        "course_title": "Data Science",
+        "description": "Explore the field of data science, including data analysis, machine learning, and data visualization.",
+        "image_url": "https://i.ibb.co/Pc9mJyn/images.jpg",
+        "details": "This comprehensive course explores the field of data science, covering data analysis, machine learning, and data visualization. You will learn how to analyze large datasets to extract valuable insights and trends. Machine learning algorithms will be studied for predictive modeling and pattern recognition. Data visualization techniques will be explored to communicate findings effectively. Python programming language will be used extensively for data manipulation and analysis. By the end of this course, you will have the skills to tackle real-world data science challenges.",
+        "category_id": 106,
+        "rating": 4.9,
+        "course_teacher": {
+            "name": "Sarah Anderson",
+            "teacher_image": "https://example.com/teacher_sarah_anderson_image.jpg",
+            "teacher_position": "Data Scientist"
+        },
+        "student_number": 100,
+        "lessons": 50,
+        "course_duration": "6 months",
+        "course_price": 8000,
+        "topics_covered": [
+            "Data Analysis",
+            "Machine Learning",
+            "Statistical Modeling",
+            "Data Visualization"
+        ]
+    }
+]
